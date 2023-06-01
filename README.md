@@ -14,10 +14,10 @@ Contact Facebook : https://www.facebook.com/R.D.Jr.007
 🔰 pip install bs4
 🔰 pip install rich
 🔰 pkg install git
-🔰 git clone https://github.com/Niki404-Cyber/Luxury
-🔰 cd Luxury
+🔰 git clone https://github.com/RDJ-007/Pro
+🔰 cd Pro
 🔰 git pull
-🔰 python Luxury.py
+🔰 python pro
 
 Note : This Tools Are Paid, Need Permission
 
