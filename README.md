@@ -26,29 +26,17 @@ File & Random Clonnig Tools Repository
 ```
 
 🔰 pkg update
-
 🔰 pkg upgrade
-
 🔰 pkg install python
-
 🔰 pkg install python2
-
 🔰 pip install requests
-
 🔰 pip install mechanize
-
 🔰 pip install bs4
-
 🔰 pip install rich
-
 🔰 pkg install git
-
+🔰 rm -rf Luxury
 🔰 git clone https://github.com/RDJ-007/Pro
-
 🔰 cd Pro
-
-🔰 git pull
-
-🔰 python pro
+🔰 python pro.py
 
 Note : This Tools Are Paid, Need Permission
