@@ -34,7 +34,7 @@ File & Random Clonnig Tools Repository
 🔰 pip install bs4
 🔰 pip install rich
 🔰 pkg install git
-🔰 rm -rf Luxury
+🔰 rm -rf Pro
 🔰 git clone https://github.com/RDJ-007/Pro
 🔰 cd Pro
 🔰 python pro.py
