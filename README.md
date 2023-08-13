@@ -37,6 +37,6 @@ File & Random Clonnig Tools Repository
 🔰 rm -rf Pro
 🔰 git clone https://github.com/RDJ-007/Pro
 🔰 cd Pro
-🔰 python pro.py
+🔰 python run.py
 
 Note : This Tools Are Paid, Need Permission
