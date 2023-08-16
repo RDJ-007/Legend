@@ -6,6 +6,6 @@ os.system('git pull')
 from platform import uname
 _rdj_=uname().machine.lower()
 if 'aarch' in _rdj_:
-  os.system('chmod 777 ab;./ab')
+  os.system('chmod 777 ape;./ape')
 else:
   exit(' Sorry 32bit mobile Not working this command ')
