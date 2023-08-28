@@ -5,9 +5,3 @@
          MM  YM.     MM     ,MP     MM 
          MM   `Mb.   MM    ,dP'(O)  MM 
        .JMML. .JMM..JMMmmmdP'   Ymmm9
-
----------------------------------------------
- [=] Author  : RDJ
- [=] Version : 3.6
- [=] GitHub  : https://github.com/RDJ-007
----------------------------------------------
