@@ -1,15 +1,13 @@
-def logo():
-    os.system('clear')
-    print('''\033[1;97m
        `7MM"""Mq.  `7MM"""Yb.    `7MMF'
          MM   `MM.   MM    `Yb.     MM 
          MM   ,M9    MM     `Mb     MM 
          MMmmdM9     MM      MM     MM 
          MM  YM.     MM     ,MP     MM 
          MM   `Mb.   MM    ,dP'(O)  MM 
-       .JMML. .JMM..JMMmmmdP'   Ymmm9\n
+       .JMML. .JMM..JMMmmmdP'   Ymmm9
+
 ---------------------------------------------
  [=] Author  : RDJ
  [=] Version : 3.6
  [=] GitHub  : https://github.com/RDJ-007
----------------------------------------------''')
+---------------------------------------------
