@@ -4,6 +4,6 @@ except:pass
 try:os.system('xdg-open https://chat.whatsapp.com/LBRCU6kpjrkBRrWHDjoa0m')
 except:pass
 try:
-    __import__("acc").menu()
+    __import__("add").___rdj__XD_()
 except Exception as e:
     exit(str(e))
