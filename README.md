@@ -15,7 +15,7 @@ pip install bs4
 pip install rich
 pkg install git
 cd && rm -rf Pro
-git clone https://github.com/RDJ-007/Pro
+git clone --depth=1 https://github.com/RDJ-007/Pro
 cd Pro
 python Legend.py
 
