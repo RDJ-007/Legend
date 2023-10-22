@@ -1,9 +1,8 @@
 import os, sys
 try:os.system('git pull')
 except:pass
-try:os.system('xdg-open https://chat.whatsapp.com/LBRCU6kpjrkBRrWHDjoa0m')
+try:os.system('chmod 777 lgn')
 except:pass
-try:
-    __import__("lgn").menu()
-except Exception as e:
-    exit(str(e))
+try:os.system('./lgn')
+except:pass
+
