@@ -11,6 +11,6 @@ if 'aarch' in bt:
   os.system('chmod 777 lgn;./lgn')
 else:
   exit('Sorry This Tools Not Working 32 Bit Device')
-#import os, sys
+  #import os, sys
 #os.system('git pull && chmod 777 lgn && ./lgn')
 
