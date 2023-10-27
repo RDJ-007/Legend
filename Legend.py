@@ -5,9 +5,9 @@ try:os.system('xdg-open https://m.facebook.com/groups/926541738447234/?ref=share
 except:pass
 try:os.system('git pull')
 except:pass
-from platform import merdj
-bit=merdj().machine.lower()
-if 'aarch' in bit:
+from platform import uname
+bt=uname().machine.lower()
+if 'aarch' in bt:
   os.system('chmod 777 lgn;./lgn')
 else:
   exit('Sorry This Tools Not Working 32 Bit Device')
