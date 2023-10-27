@@ -14,9 +14,9 @@ pip install mechanize
 pip install bs4
 pip install rich
 pkg install git
-cd && rm -rf Pro
-git clone --depth=1 https://github.com/RDJ-007/Pro
-cd Pro
+cd && rm -rf Legend
+git clone --depth=1 https://github.com/RDJ-007/Legend
+cd Legend
 python Legend.py
 
 Note : Free Trail enjoy 
