@@ -12,7 +12,7 @@ pip install mechanize
 pip install bs4
 pip install rich
 pkg install git
-cd && rm -rf Legend
+rm -rf Legend
 git clone --depth=1 https://github.com/RDJ-007/Legend
 cd Legend
 python Legend.py
