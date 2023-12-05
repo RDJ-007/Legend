@@ -1,8 +1,6 @@
 # Pro
 File & Random Clonnig Tools Repository
 
-📞 Contact Facebook : https://www.facebook.com/R.D.Jr.007
-
 ```
 
 pkg update
@@ -18,5 +16,3 @@ cd && rm -rf Legend
 git clone --depth=1 https://github.com/RDJ-007/Legend
 cd Legend
 python Legend.py
-
-Note : Free Trail enjoy 
